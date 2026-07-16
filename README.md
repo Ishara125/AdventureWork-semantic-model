@@ -332,7 +332,11 @@ This automated setup helps ensure that the dashboard remains updated when the so
 
 ![Mobile Dashboard 3](screenshots/mobile-dashboard3.png)
 
+## Data Model Preview
 
+The Power BI data model was structured using a star-schema approach, with the `Sales_data` table acting as the central fact table and the supporting dimension tables connected through key relationships.
+
+![Power BI Data Model](screenshots/data-model.png)
 ---
 
 ## Key Learnings
