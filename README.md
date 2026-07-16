@@ -315,7 +315,13 @@ An automated refresh schedule was configured in Power BI Service so that the dat
 | Refresh Failure Notification | When a refresh failure occurs |
 
 This automated setup helps ensure that the dashboard remains updated when the source data changes.
+## Automated Refresh Evidence
 
+The Power BI semantic model is configured with a scheduled refresh in Power BI Service.
+
+The refresh history below shows successful scheduled refresh executions:
+
+![Power BI Refresh History](screenshots/refresh-history.png)
 ---
 
 ## Dashboard Preview
