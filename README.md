@@ -335,7 +335,13 @@ This automated setup helps ensure that the dashboard remains updated when the so
 
 
 ```markdown
-![Mobile Dashboard](screenshots/mobile-dashboard.png)
+![Mobile Dashboard](screenshots/mobile-dashboard1.png)
+```
+```markdown
+![Mobile Dashboard](screenshots/mobile-dashboard2.png)
+```
+```markdown
+![Mobile Dashboard](screenshots/mobile-dashboard3.png)
 ```
 
 
