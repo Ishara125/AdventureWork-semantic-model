@@ -322,27 +322,15 @@ This automated setup helps ensure that the dashboard remains updated when the so
 
 ### Executive Dashboard
 
-
-
-```markdown
 ![Executive Dashboard](screenshots/executive-dashboard.png)
-```
-
----
 
 ### Mobile Dashboard
 
+![Mobile Dashboard 1](screenshots/mobile-dashboard1.png)
 
+![Mobile Dashboard 2](screenshots/mobile-dashboard2.png)
 
-```markdown
-![Mobile Dashboard](screenshots/mobile-dashboard1.png)
-```
-```markdown
-![Mobile Dashboard](screenshots/mobile-dashboard2.png)
-```
-```markdown
-![Mobile Dashboard](screenshots/mobile-dashboard3.png)
-```
+![Mobile Dashboard 3](screenshots/mobile-dashboard3.png)
 
 
 ---
